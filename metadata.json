@@ -1,0 +1,8 @@
+{
+  "name": "StockDukan",
+  "description": "Manage Godam and Dukan inventory with real-time syncing, staff access, and low-stock alerts on a simple Hindi interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
